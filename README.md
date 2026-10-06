@@ -1,5 +1,7 @@
 # 💫 About Me:
 passionate software engineer<br>i am a python developer
+~currrently i am learing<br>ai in python
+`student<br>at kolli nageswar rav first grade government college in gangavati
 
 
 ## 🌐 Socials:
